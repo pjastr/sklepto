@@ -1,0 +1,19 @@
+body { font-family: Arial, sans-serif; margin: 0; color: #222; }
+header { background: #1f2937; color: #fff; padding: 10px 20px; }
+header a { color: #fff; }
+#logo { display: inline-block; margin: 0 20px 0 0; font-size: 1.4em; }
+#menu a { margin-right: 14px; text-decoration: none; }
+#zalogowany { margin-right: 14px; color: #a7f3d0; }
+main { padding: 20px; max-width: 900px; }
+label { display: block; margin-top: 10px; font-weight: bold; }
+input[type=text], input[type=number], input[type=password], input[type=email], textarea { width: 300px; padding: 5px; }
+button { margin-top: 12px; padding: 6px 14px; }
+.flash { padding: 10px; margin-bottom: 15px; border-radius: 4px; }
+.flash.success, #sukces { background: #d1fae5; border: 1px solid #10b981; padding: 10px; }
+.flash.error, #bledy { background: #fee2e2; border: 1px solid #ef4444; padding: 10px 10px 10px 30px; }
+table { border-collapse: collapse; margin-top: 10px; }
+td, th { border: 1px solid #ccc; padding: 6px 10px; }
+#wynik { margin-top: 15px; background: #eff6ff; border: 1px solid #3b82f6; padding: 10px; }
+footer { margin-top: 30px; padding: 10px 20px; color: #666; font-size: 0.9em; }
+.inline { display: inline; }
+.inline button { margin: 0 4px 0 0; }
